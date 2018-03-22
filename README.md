@@ -5,7 +5,7 @@ This project demonstrates the visualization of high-frequency data streams (50Hz
 "mqtt-realtime-chart-client" is a Vue.js client application, which works in conjunction with [mqtt-realtime-chart-server](https://github.com/NickJokic/mqtt-realtime-chart-server).
 
 
-![Alt Text](https://raw.githubusercontent.com/NickJokic/mqtt-realtime-chart-server/master/static/mqtt-realtime-chart.gif)
+![Alt Text](https://raw.githubusercontent.com/NickJokic/mqtt-realtime-chart-client/master/static/mqtt-realtime-chart.gif)
 
 
 ## Features
@@ -31,6 +31,9 @@ Before you run the client, be sure you have these downloaded/installed on your m
 
 
 ### Installing
+
+To get started with this project, follow the 3-step installation, described here.
+
 ## 1. Moquette 
 
 The following commands will unpack and run the Moquette broker, which listens on port 1883:

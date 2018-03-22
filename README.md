@@ -2,7 +2,7 @@
 
 This project demonstrates the visualization of high-frequency data streams (50Hz+) with Rickshaw.js chart library! 
 
-"mqtt-realtime-chart-client" is a Vue.js client application, which works in conjunction with [mqtt-realtime-chart-server](https://github.com/NickJokic/mqtt-realtime-chart-server).
+**mqtt-realtime-chart-client** is a Vue.js client application, which works in conjunction with [mqtt-realtime-chart-server](https://github.com/NickJokic/mqtt-realtime-chart-server).
 
 
 ![Alt Text](https://raw.githubusercontent.com/NickJokic/mqtt-realtime-chart-client/master/static/mqtt-realtime-chart.gif)
